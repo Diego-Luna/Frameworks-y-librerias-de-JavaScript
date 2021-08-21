@@ -21,3 +21,22 @@ Referencia MDN: https://developer.mozilla.org/es/docs/Glossary/HTML
 ## ¿Qué son los componentes?
 
 Partes de código reutilizables y modificables.
+
+## ¿Qué es reactividad?
+
+Reactividad: Es un paradigma, una forma de pensar nuestras aplicaciociones. Deben seguir 2 reglas:
+
+1. Responsive, es decir, deben ser resilientes (siempre sabe qué hacer) y escalables (no importa con cuánta información debemos trabajar o cuántos usuarios entran a la aplicación, la aplicación debe poder seguir funcionando sin problemas).
+
+2. Message Driven (Arquitectura basada en mensajes). Deben de haber emisores y receptores de mensajes. Los mensajes se entregan de manera asíncrona.
+
+
+Recuerda: La arquitectura no es ajena a la programación.
+
+Estado: Es el lugar donde vamos a guardar la información reactiva de nuestros componentes. Son variables a las que nos suscribimos para recibir una notificación cada vez que cambian sus valores.
+
+Render: o renderizado, es el proceso por el cual nuestro HTML, pasan a ser información visual en el DOM.
+
+Estrategias de render: Virtual DOM y No Virtual DOM. Ninguna es mejor, depende del caso en particular.
+
+Componente -> Estado -> Render -> Usuario (y vuelve a “Estado”)

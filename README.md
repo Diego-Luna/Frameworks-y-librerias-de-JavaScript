@@ -203,3 +203,8 @@ En pocas palabras, al principio Vue nos deja trabajar al principio casi como si 
 Nos deja trabajar con componentes pero no es obligatorio en un inicio.
 
 “El mejor performance”
+
+## Cómo usar Vue.js
+
+Codigo en CodeSandbox: https://codesandbox.io/s/movies-vue-of39d
+En vivo el resultado: https://of39d.csb.app/

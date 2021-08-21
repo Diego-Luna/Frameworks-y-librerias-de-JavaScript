@@ -154,3 +154,6 @@ Al crear componentes con una clase esta usa un función render y dentro una func
 React también cuenta con el state, que nos sirve para cambiar el contenido de las variables dependiendo de la interacción del usuario. Este estado es un objeto donde podemos definir propiedades para después hacer uso de ellas. Cuando React detecta un cambio dentro del state automáticamente se vuelve a renderizar el componente mostrando los nuevos datos.
 
 
+## Cómo usar React.js
+
+codigo en CodeSandbox: https://codesandbox.io/s/distracted-leakey-os80h?file=/src/form.js

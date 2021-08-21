@@ -156,7 +156,7 @@ React también cuenta con el state, que nos sirve para cambiar el contenido de l
 
 ## Cómo usar React.js
 
-codigo en CodeSandbox: https://codesandbox.io/s/distracted-leakey-os80h?file=/src/form.js
+Codigo en CodeSandbox: https://codesandbox.io/s/distracted-leakey-os80h?file=/src/form.js
 En vivo el resultado: https://os80h.csb.app/?
 
 ## ¿Qué es Angular y cómo se construyó?
@@ -178,3 +178,8 @@ Angular tiene a Angular Ivy que se encarga de renderizar los componentes en angu
 Angular explica que crear una copia de todo el DOM es innecesario, con el Incremental DOM cada componente se convierte en Instrucciones y estas hacen que se ejecute y renderice y actualice el componente, en ningun momento crea copia del DOM y ahorra memoria.
 
 En angular 9 reescribieron el motor completamente. Antes habia que compilar muchas veces cada que cambiabamos componentes. Con Angular Ivy cambio la forma en la que se describe para que los componentes solo se afecten asi mismos y no a los demas.
+
+##  Cómo usar Angular
+
+Codigo en CodeSandbox: https://codesandbox.io/s/movies-angular-25sx5
+En vivo el resultado: https://25sx5.csb.app/

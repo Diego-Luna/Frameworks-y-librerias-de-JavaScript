@@ -183,3 +183,23 @@ En angular 9 reescribieron el motor completamente. Antes habia que compilar much
 
 Codigo en CodeSandbox: https://codesandbox.io/s/movies-angular-25sx5
 En vivo el resultado: https://25sx5.csb.app/
+
+## ¿Qué es Vue y cómo se construyó?
+
+“El Framework progresivo”
+
+No es un framework tan abrumador como Angular, pero aún así puede ir escalando progresivamente a medida que lo vamos necesitando.
+
+Escalable pero no flexible.
+
+Se integra bien con cualquier herramienta que queramos utilizar.
+
+Es completamente Reactivo.
+
+Vue también usa el Virtual DOM.
+
+En pocas palabras, al principio Vue nos deja trabajar al principio casi como si siguiéramos usando HTML común y corriente pero poco a poco le vamos metiendo JS usando Vue hasta que llega un momento en el que prácticamente todo la aplicación está hecha en JS con componentes de Vue.
+
+Nos deja trabajar con componentes pero no es obligatorio en un inicio.
+
+“El mejor performance”

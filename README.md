@@ -7,6 +7,7 @@
 * __Framework__ (Entorno/Marco de trabajo​): Contiene librerías y herramientas que nos ayudarán a construir algo más rápido, garantizando la calidad gracias a una metodología y estructura de trabajo bien definida.
 * __Librería__: Es un fragmento de código que nos ayuda a resolver un problema específico y que tiene un propósito concreto.
 
+
 ## Resumen de la historia de HTML
 
 * 1993 Primera versión “formal” de HTML (NO fue estandar).
@@ -18,9 +19,11 @@
 
 Referencia MDN: https://developer.mozilla.org/es/docs/Glossary/HTML
 
+
 ## ¿Qué son los componentes?
 
 Partes de código reutilizables y modificables.
+
 
 ## ¿Qué es reactividad?
 
@@ -40,6 +43,7 @@ Render: o renderizado, es el proceso por el cual nuestro HTML, pasan a ser infor
 Estrategias de render: Virtual DOM y No Virtual DOM. Ninguna es mejor, depende del caso en particular.
 
 Componente -> Estado -> Render -> Usuario (y vuelve a “Estado”)
+
 
 ## Librerías vs. frameworks
 
@@ -113,3 +117,40 @@ En la consulta de datos son formas o protocolos para comunicarnos con el backend
 
 * API REST
 * GraphQL
+
+
+## ¿Qué es React y cómo se construyó?
+
+ECMAScript es estándar en el que se basa JavaScript, es la especificación del lenguaje de programación JavaScript; y lo que conocemos como Javascript es la implementación que hace cada navegador de esta especificación.
+
+En 2005 surgió ECMAScript for XML, un estándar para agregar soporte nativo de ECMAScript a XML. Era una alternativa a la forma en la que se trabaja con el DOM.
+
+En 2010, inspirados en ECMAScript for XML, Facebook estaba trabajando en XHP, una “mejora” a PHP con la que pretendían crear componentes personalizados y reutilizables de HTML y lo integraron a su Stack.
+
+En 2011, bajo la influencia de XHP y los problemas que tenía Facebook, se creó el prototipo de React JS. Una herramienta para desarrollar aplicaciones con la que pudieran mejorar la eficiencia del los desarrolladores y seguir ofreciendo una buena UX.
+
+En 2012 React se volvió Open Source.
+
+En 2014 llegaron las React Developer Tools, un conjunto de herramientas para depurar componentes de React.
+
+En 2015 apareció React Native, y con él muchas empresas grandes empezaron a utilizar React.
+
+### Objetivos de React
+
+* Declarativo: Se refiere a que sea fácil de leer.
+* Basado en componentes: Que todo este formado por componentes.
+* Multiplataforma: Significa que podremos utilizar React en cualquier plataforma con solo pequeños cambios.
+
+Existe un gran ecosistema de herramientas relacionadas con React, algunas desarrolladas por Facebook y otras por creadas por la comunidad. Por ejemplo:
+
+* React DOM: Se utiliza para renderizar los componentes de React en el navegador.
+* React Native: Usado generalmente para crear aplicaciones móviles.
+
+---
+Hay dos formas de crear componentes con React: con una clase y con una función
+
+Al crear componentes con una clase esta usa un función render y dentro una función return. Dentro de esta ultima se encuentra el código JSX para crear el componente. Además, React utiliza las llamadas props para presentar ciertas partes del componente de manera dinámica.
+
+React también cuenta con el state, que nos sirve para cambiar el contenido de las variables dependiendo de la interacción del usuario. Este estado es un objeto donde podemos definir propiedades para después hacer uso de ellas. Cuando React detecta un cambio dentro del state automáticamente se vuelve a renderizar el componente mostrando los nuevos datos.
+
+

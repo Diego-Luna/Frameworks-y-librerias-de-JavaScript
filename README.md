@@ -236,3 +236,8 @@ En vivo el resultado: https://7ue6i.csb.app/
 
 ## CSS-in-JS
 CSS-in-JS es una técnica de diseño en la que se usa JavaScript para diseñar componentes. Cuando se analiza este JavaScript, se genera CSS y se adjunta al DOM. Permite abstraer CSS al nivel de componente en sí, usando JavaScript para describir estilos de una manera declarativa y mantenible.
+
+## Componentes en Angular con CSS
+
+Codigo en CodeSandbox: https://codesandbox.io/s/movies-angular-25sx5?resolutionWidth=320&resolutionHeight=675&file=/src/app/app.component.css
+En vivo el resultado: https://25sx5.csb.app/

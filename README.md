@@ -228,3 +228,8 @@ Rich Harris creó SVELTE
 3.- Envuelve como un envoltura de chocolate 😄, todos los componentes en FRAGMENTS, Una interfaz API del Navegador.
 4.- Esa interfaz sirve para ENCAPSULAR: Nodos, y pedazos del DOM, esto no afecta la interfaz de la Página.
 5.- Los FRAGMENTS es como un nodo imaginario(No es visible para los usuarios), pero si tiene todos las características de un nodo.(Crear, Actualizar, Borrar)
+
+## Cómo usar Svelte
+
+Codigo en CodeSandbox: https://codesandbox.io/s/movie-svelte-7ue6i
+En vivo el resultado: https://7ue6i.csb.app/

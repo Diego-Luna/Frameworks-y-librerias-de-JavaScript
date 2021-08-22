@@ -233,3 +233,6 @@ Rich Harris creó SVELTE
 
 Codigo en CodeSandbox: https://codesandbox.io/s/movie-svelte-7ue6i
 En vivo el resultado: https://7ue6i.csb.app/
+
+## CSS-in-JS
+CSS-in-JS es una técnica de diseño en la que se usa JavaScript para diseñar componentes. Cuando se analiza este JavaScript, se genera CSS y se adjunta al DOM. Permite abstraer CSS al nivel de componente en sí, usando JavaScript para describir estilos de una manera declarativa y mantenible.

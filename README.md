@@ -157,7 +157,7 @@ React también cuenta con el state, que nos sirve para cambiar el contenido de l
 ## Cómo usar React.js
 
 Codigo en CodeSandbox: https://codesandbox.io/s/distracted-leakey-os80h?file=/src/form.js
-En vivo el resultado: https://os80h.csb.app/?
+El resultado: https://os80h.csb.app/?
 
 ## ¿Qué es Angular y cómo se construyó?
 
@@ -182,7 +182,7 @@ En angular 9 reescribieron el motor completamente. Antes habia que compilar much
 ##  Cómo usar Angular
 
 Codigo en CodeSandbox: https://codesandbox.io/s/movies-angular-25sx5
-En vivo el resultado: https://25sx5.csb.app/
+El resultado: https://25sx5.csb.app/
 
 ## ¿Qué es Vue y cómo se construyó?
 
@@ -207,7 +207,7 @@ Nos deja trabajar con componentes pero no es obligatorio en un inicio.
 ## Cómo usar Vue.js
 
 Codigo en CodeSandbox: https://codesandbox.io/s/movies-vue-of39d
-En vivo el resultado: https://of39d.csb.app/
+El resultado: https://of39d.csb.app/
 
 ## QUE ES SVELTE Y COMO SE CONSTRUYÓ
 
@@ -232,7 +232,7 @@ Rich Harris creó SVELTE
 ## Cómo usar Svelte
 
 Codigo en CodeSandbox: https://codesandbox.io/s/movie-svelte-7ue6i
-En vivo el resultado: https://7ue6i.csb.app/
+El resultado: https://7ue6i.csb.app/
 
 ## CSS-in-JS
 CSS-in-JS es una técnica de diseño en la que se usa JavaScript para diseñar componentes. Cuando se analiza este JavaScript, se genera CSS y se adjunta al DOM. Permite abstraer CSS al nivel de componente en sí, usando JavaScript para describir estilos de una manera declarativa y mantenible.
@@ -240,9 +240,14 @@ CSS-in-JS es una técnica de diseño en la que se usa JavaScript para diseñar c
 ## Componentes en Angular con CSS
 
 Codigo en CodeSandbox: https://codesandbox.io/s/movies-angular-25sx5?resolutionWidth=320&resolutionHeight=675&file=/src/app/app.component.css
-En vivo el resultado: https://25sx5.csb.app/
+El resultado: https://25sx5.csb.app/
 
-## Trabajando con Vue Components
+## Trabajando con Vue Components y Vue Components con Preprocesadores de CSS
 
 Codigo en CodeSandbox: https://codesandbox.io/s/vue-components-t26mp
-En vivo el resultado: https://t26mp.csb.app/
+El resultado: https://t26mp.csb.app/
+
+## Trabajando en React con Styled Component
+
+Codigo en CodeSandbox: https://codesandbox.io/s/como-usar-react-os80h?file=/src/form.js:259-271
+El resultado: https://os80h.csb.app/

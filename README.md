@@ -256,3 +256,8 @@ El resultado: https://os80h.csb.app/
 
 Codigo en CodeSandbox: https://codesandbox.io/s/como-usar-react-os80h?file=/src/form.js
 El resultado: https://os80h.csb.app/
+
+## Trabajando en Svelte con Emotion
+
+Codigo en CodeSandbox: https://codesandbox.io/s/movie-svelte-7ue6i?file=/styles.js:696-701
+El resultado: https://7ue6i.csb.app/

@@ -241,3 +241,8 @@ CSS-in-JS es una técnica de diseño en la que se usa JavaScript para diseñar c
 
 Codigo en CodeSandbox: https://codesandbox.io/s/movies-angular-25sx5?resolutionWidth=320&resolutionHeight=675&file=/src/app/app.component.css
 En vivo el resultado: https://25sx5.csb.app/
+
+## Trabajando con Vue Components
+
+Codigo en CodeSandbox: https://codesandbox.io/s/vue-components-t26mp
+En vivo el resultado: https://t26mp.csb.app/

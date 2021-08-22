@@ -251,3 +251,8 @@ El resultado: https://t26mp.csb.app/
 
 Codigo en CodeSandbox: https://codesandbox.io/s/como-usar-react-os80h?file=/src/form.js:259-271
 El resultado: https://os80h.csb.app/
+
+## Estilos dinámicos con Styled Components en React
+
+Codigo en CodeSandbox: https://codesandbox.io/s/como-usar-react-os80h?file=/src/form.js
+El resultado: https://os80h.csb.app/

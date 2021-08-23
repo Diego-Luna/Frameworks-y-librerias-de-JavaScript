@@ -294,3 +294,7 @@ NOTA: Para esto se necesita Node.js.
 
 Estos generadores nos permiten usar el Progressive SSR mientras estamos desarrollando el sitio, pero cuando lo compilamos nos generan páginas estáticas que ya tienen cargados los datos que normalmente le pediríamos al backend y cuando hacemos deploy las aplicaciones funcionan de una. Si hay algún dato que nos daba el servidor pero que sabemos que casi no va a cambiar (como un blogpost) podemos volver a hacer deploy si queremos editar el contenido no habrá problema alguno.
 
+## Frameworks sobre frameworks: Next.js
+
+Codigo en CodeSandbox: https://codesandbox.io/s/next-movie-d93iv
+El resultado: https://d93iv.sse.codesandbox.io/

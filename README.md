@@ -299,7 +299,7 @@ Estos generadores nos permiten usar el Progressive SSR mientras estamos desarrol
 Codigo en CodeSandbox: https://codesandbox.io/s/next-movie-d93iv
 El resultado: https://d93iv.sse.codesandbox.io/
 
-##  ¿Necesitas un framework o una librería? 📚
+## ¿Necesitas un framework o una librería? 📚
 
 
 Elegir frameworks o librerías de JavaScript para tu próximo proyecto web es una gran responsabilidad. Tus preferencias personales deben ser el último factor a considerar. Lo realmente relevante son el tiempo, presupuesto, requisitos técnicos y el conocimiento + experiencia del equipo de desarrollo con cada tecnología.
@@ -311,4 +311,8 @@ Por su parte, las librerías responden a un objetivo más específico y menos ge
 También debes considerar que el costo/dificultad de integrar librerías con librerías suele ser muy bajo. Donde realmente aumenta la complejidad es configurando frameworks de JavaScript para trabajar en conjunto con librerías que no fueron específicamente diseñadas para ese framework en particular.
 
 O al menos eso es a lo que estamos acostumbrados.
+
+## Rangos de flexibilidad, integrabilidad y responsabilidad 🚧
+
+Las herramientas de desarrollo frontend no tienen que ser a fuerza un framework o una librería. Más bien, las conocemos de una u otra forma dependiendo de sus rangos de flexibilidad.
 
